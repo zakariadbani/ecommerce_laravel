@@ -16,7 +16,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 
 # 1. Clonez le projet
 
-git clone https://zakariadb@bitbucket.org/my_prjs/ecommerce_laravel.git
+git clone https://github.com/zakariadbani/ecommerce_laravel.git
 
 #   2. Installez les dépendances via Composer
 ### Naviguez dans le dossier du projet et exécutez la commande suivante :
